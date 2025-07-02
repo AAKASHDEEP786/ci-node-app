@@ -1,1 +1,1 @@
-This is a simple nodejs app
+This is a simple nodejs app for beginners
